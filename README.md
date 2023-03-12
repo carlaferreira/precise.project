@@ -3,7 +3,7 @@
 **Project Name**: PRECISE - A correct by design methodology for available cloud applications <br />
 **Funding Institution**: Fundação para a Ciência e Tecnologia <br />
 **Project Reference**: PTDC/CCI-INF/ 32081/2017 <br />
-**Principal Investigator**: Carla Ferreira <br />
+**Principal Investigator**: [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) <br />
 **Leading Institution**: 
 NOVA.ID.FCT - Associação para a Inovação e Desenvolvimento da Faculdade de Ciências e Tecnologia <br />
 **Other Institutions**: 
