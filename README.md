@@ -29,7 +29,8 @@ in terms of efficiency, availability and correctness.
 Carla Ferreira (Principal Investigator) <br />
 Nuno Preguiça (Co-Principal Investigator) <br />
 João Costa Seco (Reseacher) <br />
-Miguel Goulão (Reseacher)Sérgio Duarte (Reseacher) <br />
+Miguel Goulão (Reseacher)br />
+Sérgio Duarte (Reseacher) <br />
 Mário Pereira (Researcher) <br />
 Catarina Gralha (Post-doc)<br />
 Ana Catarina Ribeiro (PhD student)<br />
