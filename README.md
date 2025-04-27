@@ -9,7 +9,7 @@ NOVA.ID.FCT - Associação para a Inovação e Desenvolvimento da Faculdade de C
 **Other Institutions**: 
 NOVA SST - NOVA School of Science and Technology <br />
 NOVA LINCS - NOVA Laboratory for Informatics and Computer Science <br />
-**Project Duration**: 01-10-2018 to 30-09-2021 <br />
+**Project Duration**: 01-10-2018 to 30-09-2022 <br />
 **Total Funding**: 228.237,65 € <br />
 
 ## Project Abstract
